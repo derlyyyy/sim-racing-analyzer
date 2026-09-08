@@ -55,7 +55,7 @@ sim-racing-analyzer/
 │   └── telemetry.h
 │
 ├── data/
-│   └── telemetry.csv
+│   └── <telemetry_data>.csv
 │
 └── README.md
 ```
@@ -171,4 +171,4 @@ The long-term goal is to turn that experiment into a useful telemetry analysis t
 
 ---
 
-## Made as a personal C++ / sim racing project
+_Made as a personal C++ / sim racing project_
